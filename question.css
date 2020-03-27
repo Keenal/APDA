@@ -38,10 +38,17 @@ button {
     float:right;
 }
 
+
+
 .button a {
     text-decoration: none;
     color: black;
 }
+
+.navbar {
+    background-color: black;
+}
+
 
 #container {
     width:70%;
